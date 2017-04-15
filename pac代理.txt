@@ -1,0 +1,9 @@
+Windows
+
+Internet选项 -> 连接(选项卡) -> 局域网设置(如果是电脑拨号上网, 这里点'设置') -> 使用自动配置脚本 -> 填入PAC地址 -> 确定 (图)
+
+PAC地址
+
+主：https://pac.itzmx.com/abc.pac
+
+备：https://pac.itzmx.com/adc.pac
