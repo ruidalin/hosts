@@ -1,2 +1,3 @@
 @echo cd %~dp0hosts
-git pull
+git remote add hosts git@github.com:racaljk/hosts.git
+git pull hosts master
